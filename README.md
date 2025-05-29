@@ -1,4 +1,6 @@
 # Design-a-wireframe-diagram-for-a-generic-application-or-website-using-Balsamiq
+Name : K.Mohamed Althaf
+Reg no : 212224240089
 
 AIM:
 
